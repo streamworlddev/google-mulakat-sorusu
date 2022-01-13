@@ -1,3 +1,9 @@
+//Google Yazılım Mühendisliği mülakat sorusu - MertStack(Youtube)
+//Kaynak : 
+//https://www.youtube.com/watch?v=dPr0Up1d2LI
+//
+//Video'yu izledikten sonra kendi yöntemlerimle geliştirmeye çalıştım.
+
 #include <iostream>
 #include <vector>
 
