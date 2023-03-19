@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://4.bp.blogspot.com/-tpTnaFvHIL8/V3n-M4qBDZI/AAAAAAAAALU/nfMLn06rWs0ungCCCH3Xdj8Tu1gDbeXywCK4B/s1600/swlogo2.png" align="center" height="144" width="454" />
+<img style="background-color:white" src="https://4.bp.blogspot.com/-tpTnaFvHIL8/V3n-M4qBDZI/AAAAAAAAALU/nfMLn06rWs0ungCCCH3Xdj8Tu1gDbeXywCK4B/s1600/swlogo2.png" align="center" height="144" width="454" />
 </div>  
   
 
