@@ -1,6 +1,18 @@
-# 💫 About Me
-I'm software developer.
+<script>
+  const calculateAge = (dob) => {
+    const birthDate = new Date(dob);
+    const ageDifference = Date.now() - birthDate.getTime();
+    const ageDate = new Date(ageDifference);
+    const age = ageDate.getUTCFullYear() - 1970;
 
+    return (age > 0) ? age : 0;
+};
+
+export { calculateAge }
+</script>
+# 💫 About Me
+Hello, I'm Hüseyin, First of all, I am 21 years old and a software developer and freelancer.
+I have a dream...
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huseyin.gulyol) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@streamworlddev) 
